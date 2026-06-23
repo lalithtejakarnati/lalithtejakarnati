@@ -30,4 +30,5 @@ Python • Java • SQL • Machine Learning • Deep Learning • NLP • Tenso
 ## Connect With Me
 
 LinkedIn: linkedin.com/in/lalith-teja-karnati-a59473270
+
 GitHub: github.com/lalithtejakarnati
