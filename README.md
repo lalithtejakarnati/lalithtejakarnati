@@ -1,396 +1,371 @@
-<!--
-  LALITH TEJA KARNATI
-  PERSONAL GITHUB PROFILE
-  Single-file portfolio | Markdown + GitHub-compatible HTML
--->
+<!-- ============================================================
+     LALITH TEJA KARNATI
+     PROFESSIONAL GITHUB PORTFOLIO
+     Theme: Midnight Blue × Electric Violet
+     Single README | No local assets required
+============================================================ -->
 
 <div align="center">
 
+<!-- ANIMATED HERO -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,35:172554,70:4338CA,100:7C3AED&height=230&section=header&text=LALITH%20TEJA%20KARNATI&fontSize=43&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%26%20ML%20ENGINEER&descSize=16&descAlignY=60" alt="Lalith Teja Karnati - Software Engineer and AI ML Engineer"/>
+
 <br>
 
-<sub>SOFTWARE ENGINEERING &nbsp; / &nbsp; ARTIFICIAL INTELLIGENCE &nbsp; / &nbsp; APPLIED MACHINE LEARNING</sub>
+<!-- ANIMATED PROFESSIONAL INTRODUCTION -->
+
+<a href="https://github.com/lalithtejakarnati">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Engineering+Intelligent+Software+Solutions;Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%26+Deep+Learning;Turning+Complex+Ideas+Into+Real+Applications" alt="Animated developer introduction"/>
+</a>
+
+<br>
+
+**Computer Science Engineering Graduate · Hyderabad, India**
+
+<br>
+
+<a href="https://www.linkedin.com/in/lalith-teja-karnati-a59473270/">
+  <img src="https://img.shields.io/badge/LINKEDIN-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=A5B4FC" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:lalithteja21@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT_ME-1E1B4B?style=for-the-badge&logo=gmail&logoColor=A5B4FC" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/lalithtejakarnati?tab=repositories">
+  <img src="https://img.shields.io/badge/MY_PROJECTS-1E1B4B?style=for-the-badge&logo=github&logoColor=A5B4FC" alt="GitHub repositories"/>
+</a>
 
 <br><br>
 
-# LALITH TEJA KARNATI
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:312E81,50:6366F1,100:7C3AED&height=3" width="90%" alt="Section divider"/>
 
-### Software Engineer &nbsp;·&nbsp; AI/ML Engineer
-
-**Designing intelligent systems. Engineering practical solutions.**
+</div>
 
 <br>
 
-Computer Science Engineering Graduate &nbsp; | &nbsp; Hyderabad, India
+<!-- ============================================================
+     PROFESSIONAL PROFILE
+============================================================ -->
+
+## 01. PROFESSIONAL PROFILE
+
+### Building intelligent systems with practical impact.
+
+I'm **Lalith Teja Karnati**, a Computer Science Engineering graduate focused on **software engineering, artificial intelligence, and machine learning**.
+
+My work spans deep learning, computer vision, natural language processing, predictive modeling, and application development. I have developed projects involving **CNN-based image restoration, medical image classification, resume information extraction, agricultural prediction systems, and algorithmic trading software**.
+
+I enjoy solving technical challenges, exploring emerging technologies, and transforming complex ideas into functional software applications.
+
+My engineering interests center on **applied AI, intelligent software systems, computer vision, and reliable application development**.
+
+I'm interested in opportunities to contribute to innovative engineering teams, collaborate on meaningful projects, and continue developing technically challenging software.
 
 <br>
 
-[**LINKEDIN ↗**](https://www.linkedin.com/in/lalith-teja-karnati-a59473270/) &nbsp;&nbsp;·&nbsp;&nbsp;
-[**GITHUB ↗**](https://github.com/lalithtejakarnati) &nbsp;&nbsp;·&nbsp;&nbsp;
-[**EMAIL ↗**](mailto:lalithteja21@gmail.com)
+<div align="center">
+
+| ARTIFICIAL INTELLIGENCE | SOFTWARE ENGINEERING | COMPUTER VISION |
+|:---:|:---:|:---:|
+| Machine Learning | Application Development | Image Processing |
+| Deep Learning | System Design | Image Classification |
+| Natural Language Processing | Problem Solving | Image Restoration |
+
+</div>
 
 <br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-<sub>AI ENGINEERING &nbsp; ◆ &nbsp; COMPUTER VISION &nbsp; ◆ &nbsp; SOFTWARE DEVELOPMENT</sub>
+<!-- ============================================================
+     TECHNICAL EXPERTISE
+============================================================ -->
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 02. TECHNICAL EXPERTISE & CORE COMPETENCIES
+
+<div align="center">
+
+### Programming Languages
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" alt="Programming languages"/>
+
+<br><br>
+
+`Python` &nbsp; `Java` &nbsp; `SQL` &nbsp; `HTML5` &nbsp; `CSS3`
+
+<br><br>
+
+### AI, Machine Learning & Computer Vision
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI and machine learning frameworks"/>
+
+<br><br>
+
+`Machine Learning` &nbsp; `Deep Learning` &nbsp; `CNN`
+
+`Computer Vision` &nbsp; `NLP` &nbsp; `Predictive Modeling`
+
+<br><br>
+
+### Libraries & Data Technologies
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,mysql,sqlite&theme=dark" alt="Data technologies"/>
+
+<br><br>
+
+`NumPy` &nbsp; `Pandas` &nbsp; `Scikit-learn` &nbsp; `MySQL` &nbsp; `SQLite`
+
+<br><br>
+
+### Development Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux&theme=dark" alt="Development tools"/>
+
+<br><br>
+
+`Git` &nbsp; `GitHub` &nbsp; `VS Code` &nbsp; `Android Studio` &nbsp; `Jupyter Notebook`
+
+</div>
+
+<br>
+
+---
+
+<!-- ============================================================
+     PROJECT SHOWCASE
+============================================================ -->
+
+## 03. FEATURED PROJECTS
+
+<div align="center">
+
+### SELECTED ENGINEERING WORK
+
+**Nine public projects across AI, software engineering, financial technology, computer vision, agriculture, and mobile development.**
 
 <br>
 
 </div>
 
-## 01 &nbsp; / &nbsp; PROFESSIONAL PROFILE
-
-### Building technology that solves real problems.
-
-I'm **Lalith Teja Karnati**, a Computer Science Engineering graduate focused on **software engineering, artificial intelligence, and machine learning**.
-
-My technical experience spans deep learning, computer vision, natural language processing, predictive modeling, and application development. I have worked on projects involving **CNN-based image restoration, medical image classification, automated resume parsing, agricultural intelligence, and algorithmic trading systems**.
-
-I approach engineering through structured problem-solving, practical implementation, and continuous improvement. My interests lie in developing reliable software and intelligent systems that translate technical ideas into meaningful applications.
-
-I am interested in **software engineering and AI/ML opportunities**, collaborative development, and projects involving emerging technologies.
-
-<br>
+<!-- PROJECT ROW 1 -->
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top" align="center">
 
-**01 / ENGINEERING**
-
-Software Development  
-Application Architecture  
-Problem Solving
-
-</td>
-<td width="33%" align="center">
-
-**02 / INTELLIGENCE**
-
-Machine Learning  
-Deep Learning  
-Natural Language Processing
-
-</td>
-<td width="33%" align="center">
-
-**03 / PERCEPTION**
-
-Computer Vision  
-Image Processing  
-Visual Classification
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-## 02 &nbsp; / &nbsp; TECHNICAL EXPERTISE
-
-<sub>TECHNOLOGIES, FRAMEWORKS & ENGINEERING DISCIPLINES</sub>
-
-<br><br>
-
-<table>
-<tr>
-<td width="28%"><b>PROGRAMMING</b></td>
-<td>
-
-`Python` &nbsp; `Java` &nbsp; `SQL` &nbsp; `HTML5` &nbsp; `CSS3`
-
-</td>
-</tr>
-<tr>
-<td><b>ARTIFICIAL INTELLIGENCE</b></td>
-<td>
-
-`Machine Learning` &nbsp; `Deep Learning` &nbsp; `Neural Networks` &nbsp; `Predictive Modeling`
-
-</td>
-</tr>
-<tr>
-<td><b>COMPUTER VISION</b></td>
-<td>
-
-`Image Processing` &nbsp; `Image Classification` &nbsp; `CNN` &nbsp; `Image Restoration`
-
-</td>
-</tr>
-<tr>
-<td><b>NATURAL LANGUAGE PROCESSING</b></td>
-<td>
-
-`Text Classification` &nbsp; `Information Extraction` &nbsp; `Document Processing`
-
-</td>
-</tr>
-<tr>
-<td><b>FRAMEWORKS & LIBRARIES</b></td>
-<td>
-
-`PyTorch` &nbsp; `TensorFlow` &nbsp; `Scikit-learn` &nbsp; `OpenCV` &nbsp; `NumPy` &nbsp; `Pandas`
-
-</td>
-</tr>
-<tr>
-<td><b>DEVELOPMENT TOOLS</b></td>
-<td>
-
-`Git` &nbsp; `GitHub` &nbsp; `VS Code` &nbsp; `Android Studio` &nbsp; `Jupyter Notebook`
-
-</td>
-</tr>
-<tr>
-<td><b>DATABASES</b></td>
-<td>
-
-`MySQL` &nbsp; `SQLite`
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-## 03 &nbsp; / &nbsp; SELECTED ENGINEERING WORK
-
-<sub>PROJECT PORTFOLIO &nbsp; / &nbsp; 09 PUBLIC REPOSITORIES</sub>
-
-<br><br>
-
-Projects across **financial technology, artificial intelligence, agriculture, computer vision, natural language processing, and Android development**.
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<sub>PROJECT 001 &nbsp; / &nbsp; FINANCIAL TECHNOLOGY</sub>
+<a href="https://github.com/lalithtejakarnati/ALPHAFORGE">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalithtejakarnati&repo=ALPHAFORGE&theme=tokyonight&hide_border=true&bg_color=0D1228&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8" alt="ALPHAFORGE project card"/>
+</a>
 
 ### ALPHAFORGE
 
 **Algorithmic Trading Platform**
 
-A production-oriented trading system incorporating paper trading, strategy validation, risk management, execution lifecycle handling, observability, and an operational dashboard.
+Production-oriented algorithmic trading software with paper trading, strategy validation, risk management, execution lifecycle management, observability, and an operational dashboard.
 
-<br>
+`Python` `FinTech` `Trading Systems`
 
-**TECHNOLOGY**
-
-`Python` `Algorithmic Trading` `Risk Management`
-
-<br>
-
-**[VIEW PROJECT ↗](https://github.com/lalithtejakarnati/ALPHAFORGE)**
+**[EXPLORE PROJECT ↗](https://github.com/lalithtejakarnati/ALPHAFORGE)**
 
 </td>
-<td width="50%" valign="top">
 
-<sub>PROJECT 002 &nbsp; / &nbsp; AGRICULTURAL INTELLIGENCE</sub>
+<td width="50%" valign="top" align="center">
 
-### CROP DISEASE & FERTILIZER PREDICTION
+<a href="https://github.com/lalithtejakarnati/Crop-Disease-Identification-and-Fertilizer-Prediction">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalithtejakarnati&repo=Crop-Disease-Identification-and-Fertilizer-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1228&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8" alt="Crop disease and fertilizer prediction project card"/>
+</a>
 
-**Machine Learning for Agriculture**
+### CROP AI
 
-An applied machine learning project focused on crop disease identification and fertilizer prediction to support agricultural decision-making.
+**Agricultural Intelligence**
 
-<br>
+Machine learning project focused on crop disease identification and fertilizer prediction for agricultural decision support.
 
-**TECHNOLOGY**
+`Python` `Machine Learning` `Agriculture`
 
-`Python` `Machine Learning` `Prediction`
-
-<br>
-
-**[VIEW PROJECT ↗](https://github.com/lalithtejakarnati/Crop-Disease-Identification-and-Fertilizer-Prediction)**
+**[EXPLORE PROJECT ↗](https://github.com/lalithtejakarnati/Crop-Disease-Identification-and-Fertilizer-Prediction)**
 
 </td>
 </tr>
+</table>
 
+<!-- PROJECT ROW 2 -->
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<sub>PROJECT 003 &nbsp; / &nbsp; WEB DEVELOPMENT</sub>
+<a href="https://github.com/lalithtejakarnati/FarmersConnect">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalithtejakarnati&repo=FarmersConnect&theme=tokyonight&hide_border=true&bg_color=0D1228&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8" alt="FarmersConnect project card"/>
+</a>
 
 ### FARMERSCONNECT
 
 **Agricultural Web Platform**
 
-A web development project exploring accessible digital solutions and practical software applications within the agriculture domain.
-
-<br>
-
-**TECHNOLOGY**
+Web development project exploring practical digital solutions and accessible software applications for the agriculture domain.
 
 `HTML` `Web Development` `Agriculture`
 
-<br>
-
-**[VIEW PROJECT ↗](https://github.com/lalithtejakarnati/FarmersConnect)**
+**[EXPLORE PROJECT ↗](https://github.com/lalithtejakarnati/FarmersConnect)**
 
 </td>
-<td width="50%" valign="top">
 
-<sub>PROJECT 004 &nbsp; / &nbsp; COMPUTER VISION</sub>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/lalithtejakarnati/A-Realtime-Image-Dehazing-using-CNN-and-DCP">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalithtejakarnati&repo=A-Realtime-Image-Dehazing-using-CNN-and-DCP&theme=tokyonight&hide_border=true&bg_color=0D1228&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8" alt="Image dehazing project card"/>
+</a>
 
 ### REAL-TIME IMAGE DEHAZING
 
-**CNN-Based Image Restoration**
+**Computer Vision & Image Restoration**
 
-A computer vision project exploring image haze removal through convolutional neural networks and Dark Channel Prior techniques.
+Image restoration project exploring haze removal through convolutional neural networks and Dark Channel Prior techniques.
 
-<br>
+`Python` `CNN` `Computer Vision`
 
-**TECHNOLOGY**
-
-`Python` `CNN` `Computer Vision` `Image Processing`
-
-<br>
-
-**[VIEW PROJECT ↗](https://github.com/lalithtejakarnati/A-Realtime-Image-Dehazing-using-CNN-and-DCP)**
+**[EXPLORE PROJECT ↗](https://github.com/lalithtejakarnati/A-Realtime-Image-Dehazing-using-CNN-and-DCP)**
 
 </td>
 </tr>
+</table>
 
+<!-- PROJECT ROW 3 -->
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<sub>PROJECT 005 &nbsp; / &nbsp; MEDICAL IMAGING</sub>
+<a href="https://github.com/lalithtejakarnati/Classification-of-microscopic-blood-cells-using-Machine-Learning">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalithtejakarnati&repo=Classification-of-microscopic-blood-cells-using-Machine-Learning&theme=tokyonight&hide_border=true&bg_color=0D1228&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8" alt="Blood cell classification project card"/>
+</a>
 
 ### BLOOD CELL CLASSIFICATION
 
-**Deep Learning for Medical Image Analysis**
+**Medical Image Intelligence**
 
-An image classification project applying machine learning and convolutional neural networks to microscopic blood cell images.
+Deep learning project exploring microscopic blood cell classification through image analysis and convolutional neural networks.
 
-<br>
+`Python` `Deep Learning` `Medical Imaging`
 
-**TECHNOLOGY**
-
-`Python` `Deep Learning` `CNN` `Medical Imaging`
-
-<br>
-
-**[VIEW PROJECT ↗](https://github.com/lalithtejakarnati/Classification-of-microscopic-blood-cells-using-Machine-Learning)**
+**[EXPLORE PROJECT ↗](https://github.com/lalithtejakarnati/Classification-of-microscopic-blood-cells-using-Machine-Learning)**
 
 </td>
-<td width="50%" valign="top">
 
-<sub>PROJECT 006 &nbsp; / &nbsp; NATURAL LANGUAGE PROCESSING</sub>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/lalithtejakarnati/Resume-Parser">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalithtejakarnati&repo=Resume-Parser&theme=tokyonight&hide_border=true&bg_color=0D1228&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8" alt="Resume parser project card"/>
+</a>
 
 ### RESUME PARSER
 
-**Automated Information Extraction**
+**Natural Language Processing**
 
-An NLP application focused on extracting structured information from resumes through text processing and document analysis.
-
-<br>
-
-**TECHNOLOGY**
+NLP-based application for extracting structured information from resumes through text processing and document analysis.
 
 `Python` `NLP` `Information Extraction`
 
-<br>
-
-**[VIEW PROJECT ↗](https://github.com/lalithtejakarnati/Resume-Parser)**
+**[EXPLORE PROJECT ↗](https://github.com/lalithtejakarnati/Resume-Parser)**
 
 </td>
 </tr>
+</table>
 
+<!-- PROJECT ROW 4 -->
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<sub>PROJECT 007 &nbsp; / &nbsp; TEXT CLASSIFICATION</sub>
+<a href="https://github.com/lalithtejakarnati/IMDB-Movie-Genre-Prediction">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalithtejakarnati&repo=IMDB-Movie-Genre-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1228&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8" alt="IMDB movie genre prediction project card"/>
+</a>
 
 ### IMDB MOVIE GENRE PREDICTION
 
 **Machine Learning & NLP**
 
-A machine learning project exploring movie genre prediction through natural language processing and text classification.
-
-<br>
-
-**TECHNOLOGY**
+Movie genre prediction project exploring text classification and natural language processing techniques.
 
 `Python` `Machine Learning` `NLP`
 
-<br>
-
-**[VIEW PROJECT ↗](https://github.com/lalithtejakarnati/IMDB-Movie-Genre-Prediction)**
+**[EXPLORE PROJECT ↗](https://github.com/lalithtejakarnati/IMDB-Movie-Genre-Prediction)**
 
 </td>
-<td width="50%" valign="top">
 
-<sub>PROJECT 008 &nbsp; / &nbsp; ANDROID DEVELOPMENT</sub>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/lalithtejakarnati/UnitConverter-Android">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalithtejakarnati&repo=UnitConverter-Android&theme=tokyonight&hide_border=true&bg_color=0D1228&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8" alt="Android unit converter project card"/>
+</a>
 
 ### ANDROID UNIT CONVERTER
 
-**Native Mobile Application**
+**Native Android Application**
 
-An Android application focused on unit conversion, user interface development, and practical mobile software engineering.
-
-<br>
-
-**TECHNOLOGY**
+Android application focused on unit conversion, user interface development, and mobile software engineering fundamentals.
 
 `Java` `Android` `XML`
 
-<br>
-
-**[VIEW PROJECT ↗](https://github.com/lalithtejakarnati/UnitConverter-Android)**
+**[EXPLORE PROJECT ↗](https://github.com/lalithtejakarnati/UnitConverter-Android)**
 
 </td>
 </tr>
+</table>
 
+<!-- PROJECT ROW 5 -->
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<sub>PROJECT 009 &nbsp; / &nbsp; ANDROID DEVELOPMENT</sub>
+<a href="https://github.com/lalithtejakarnati/Calculator-Android">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=lalithtejakarnati&repo=Calculator-Android&theme=tokyonight&hide_border=true&bg_color=0D1228&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8" alt="Android calculator project card"/>
+</a>
 
 ### ANDROID CALCULATOR
 
-**Native Mobile Application**
+**Native Android Application**
 
-An Android calculator application developed around arithmetic operations, user interaction, and mobile application fundamentals.
-
-<br>
-
-**TECHNOLOGY**
+Calculator application developed around arithmetic operations, user interaction, and Android application development.
 
 `Java` `Android` `XML`
 
-<br>
-
-**[VIEW PROJECT ↗](https://github.com/lalithtejakarnati/Calculator-Android)**
+**[EXPLORE PROJECT ↗](https://github.com/lalithtejakarnati/Calculator-Android)**
 
 </td>
-<td width="50%" valign="top">
 
-<sub>PORTFOLIO &nbsp; / &nbsp; SOURCE CODE</sub>
-
-### EXPLORE MY WORK
-
-**Open-Source Project Collection**
-
-Browse my GitHub repositories to explore source code, implementation details, and project documentation across different engineering disciplines.
+<td width="50%" valign="top" align="center">
 
 <br>
 
-**FOCUS AREAS**
+### EXPLORE MORE
 
-`AI / ML` `Computer Vision` `Software Development`
+**Source Code & Engineering Work**
+
+Explore my GitHub repositories for implementation details, project documentation, and technical experimentation.
 
 <br>
 
-**[ALL REPOSITORIES ↗](https://github.com/lalithtejakarnati?tab=repositories)**
+**Focus Areas**
+
+`Artificial Intelligence` `Software Development` `Computer Vision`
+
+<br>
+
+**[VIEW ALL REPOSITORIES ↗](https://github.com/lalithtejakarnati?tab=repositories)**
 
 </td>
 </tr>
@@ -400,79 +375,79 @@ Browse my GitHub repositories to explore source code, implementation details, an
 
 ---
 
-## 04 &nbsp; / &nbsp; AREAS OF INTEREST
+<!-- ============================================================
+     GITHUB ACTIVITY
+============================================================ -->
 
-<sub>ENGINEERING DISCIPLINES & TECHNICAL DIRECTION</sub>
+## 04. DEVELOPMENT ACTIVITY
+
+<div align="center">
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lalithtejakarnati&show_icons=true&hide_border=true&bg_color=0D1228&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalithtejakarnati&layout=compact&hide_border=true&bg_color=0D1228&title_color=A5B4FC&text_color=CBD5E1" alt="Most used programming languages"/>
 
 <br><br>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lalithtejakarnati&bg_color=0D1228&color=A5B4FC&line=818CF8&point=FFFFFF&area=true&area_color=4338CA&hide_border=true" alt="GitHub contribution activity"/>
 
-### 01. APPLIED ARTIFICIAL INTELLIGENCE
-
-Designing and implementing machine learning systems for practical, real-world applications.
-
-</td>
-<td width="33%" valign="top">
-
-### 02. COMPUTER VISION
-
-Exploring image restoration, visual classification, and deep learning for image analysis.
-
-</td>
-<td width="33%" valign="top">
-
-### 03. SOFTWARE ENGINEERING
-
-Developing maintainable applications through structured problem-solving and engineering practices.
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
 ---
 
-## 05 &nbsp; / &nbsp; PROFESSIONAL COLLABORATION
+<!-- ============================================================
+     PROFESSIONAL COLLABORATION
+============================================================ -->
 
-<table>
-<tr>
-<td width="100%" align="center">
+## 05. PROFESSIONAL COLLABORATION
 
-<br>
-
-<sub>CONNECT &nbsp; / &nbsp; COLLABORATE &nbsp; / &nbsp; BUILD</sub>
+<div align="center">
 
 <br>
 
-### LET'S BUILD SOMETHING MEANINGFUL.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,50:4338CA,100:6D28D9&height=8" alt="Collaboration accent"/>
+
+<br><br>
+
+### LET'S BUILD SOMETHING MEANINGFUL
 
 **Open to software engineering opportunities, AI/ML projects, and technical collaboration.**
 
-I welcome conversations with developers, engineering teams, researchers, and organizations working on impactful technology.
+I'm interested in connecting with engineers, researchers, development teams, and organizations building impactful technology.
 
 <br>
 
-**[CONNECT ON LINKEDIN ↗](https://www.linkedin.com/in/lalith-teja-karnati-a59473270/)**
+<a href="https://www.linkedin.com/in/lalith-teja-karnati-a59473270/">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-312E81?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect on LinkedIn"/>
+</a>
 
-**[SEND AN EMAIL ↗](mailto:lalithteja21@gmail.com)**
+&nbsp;
+
+<a href="mailto:lalithteja21@gmail.com">
+  <img src="https://img.shields.io/badge/SEND_AN_EMAIL-4338CA?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Send email"/>
+</a>
+
+<br><br>
+
+**Hyderabad, India**
 
 <br>
 
-<sub>HYDERABAD, INDIA</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,50:4338CA,100:6D28D9&height=8" alt="Collaboration accent"/>
 
-<br>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
 ---
+
+<!-- ============================================================
+     FOOTER
+============================================================ -->
 
 <div align="center">
 
@@ -482,20 +457,18 @@ I welcome conversations with developers, engineering teams, researchers, and org
 
 **Software Engineer · AI/ML Engineer**
 
-<sub>ARTIFICIAL INTELLIGENCE &nbsp; / &nbsp; MACHINE LEARNING &nbsp; / &nbsp; COMPUTER VISION</sub>
+<sub>ARTIFICIAL INTELLIGENCE · MACHINE LEARNING · COMPUTER VISION · SOFTWARE ENGINEERING</sub>
 
 <br><br>
 
-[GitHub](https://github.com/lalithtejakarnati) &nbsp; · &nbsp;
-[LinkedIn](https://www.linkedin.com/in/lalith-teja-karnati-a59473270/) &nbsp; · &nbsp;
-[Email](mailto:lalithteja21@gmail.com)
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<sub>ENGINEERING INTELLIGENT SOLUTIONS.</sub>
+<a href="https://github.com/lalithtejakarnati">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/lalith-teja-karnati-a59473270/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="mailto:lalithteja21@gmail.com">Email</a>
 
 <br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,40:172554,75:4338CA,100:7C3AED&height=120&section=footer" alt="Footer"/>
 
 </div>
