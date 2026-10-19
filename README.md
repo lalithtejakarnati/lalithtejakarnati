@@ -75,7 +75,7 @@ I enjoy translating technical ideas into useful software—from CNN-based image 
 </p>
 
 <p align="center">
-  <sub>OPENCV &nbsp; • &nbsp; NUMPY &nbsp; • &nbsp; PILLOW</sub>
+  <sub>OPENCV &nbsp; • &nbsp; NUMPY &nbsp; • &nbsp; PILLOW &nbsp; </sub>
 </p>
 
 <br>
