@@ -6,7 +6,7 @@
 
 **B.Tech Computer Science Engineering · Hyderabad, India**
 
-[**LinkedIn ↗**](https://www.linkedin.com/in/lalith-teja-karnati-a59473270/) &nbsp; · &nbsp; [**Portfolio ↗**](https://lalithtejakarnati.app.orvisai.com/) &nbsp; · &nbsp; [**Email ↗**](mailto:lalithteja713@gmail.com) &nbsp; · &nbsp; [**Repositories ↗**](https://github.com/lalithtejakarnati?tab=repositories)
+[**LinkedIn ↗**](https://www.linkedin.com/in/lalith-teja-karnati-a59473270/) &nbsp; · &nbsp; [**Portfolio ↗**](https://lalithtejakarnati.vercel.app) &nbsp; · &nbsp; [**Email ↗**](mailto:lalithteja713@gmail.com) &nbsp; · &nbsp; [**Repositories ↗**](https://github.com/lalithtejakarnati?tab=repositories)
 
 </div>
 
